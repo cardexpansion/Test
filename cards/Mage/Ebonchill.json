@@ -1,0 +1,18 @@
+{
+	"name": "Ebonchill",
+	"text": "Attacking minions casts 'Icicle' on them instead. <i>(Destroy 2 <b>Frozen</b> minions to empower.)</i>",
+	"flavor": "Insert Insatiable Hunger's flavour text here.",
+	"cardClass": "Mage",
+	"rarity": "Legendary",
+	"type": "Weapon",
+	"cost": 4,
+	"attack": 2,
+	"health": 4,
+	"tribe": "None",
+	
+	"tokenLinks":[ "http://cards.hearthcards.net/9365a8ff.png", "http://cards.hearthcards.net/67f3e92c.png", "http://cards.hearthcards.net/698d91ef.png" ],
+	"tokenTypes":[ "CardLegendaryWeapon", "CardLegendaryWeapon", "CardNormal" ],
+	
+	"cardSource": "http://cards.hearthcards.net/ec7ac126.png",
+	"artSource": "insert original art source"	
+}
