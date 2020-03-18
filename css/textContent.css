@@ -11,7 +11,7 @@
 	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
 	color: white;
-	text-shadow: 3px 3px 4px black;
+	text-shadow: 0 0 10px #111, 0 0 20px #111, 0 0 30px #111, 0 0 40px #111, 0 0 50px #111, 0 0 60px #111;
 	
 	padding: 50px;
 	text-align: center;
