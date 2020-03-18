@@ -15,7 +15,7 @@
 	
 	padding: 50px;
 	text-align: center;
-	display: inline-block;		
+	display: block;		
 	
 	z-index: 5;
 }
