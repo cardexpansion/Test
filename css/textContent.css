@@ -1,0 +1,31 @@
+.fullContainerContent
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	text-align: center;
+	z-index: 4;
+}
+.textContent
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+	
+	padding: 50px;
+	text-align: center;
+	display: inline-block;		
+	
+	z-index: 5;
+}
+.contentSection
+{
+	position: relative;
+	z-index: 2;
+}
+.artSourceHeader
+{
+	color: white;
+	position: absolute;`
+}
