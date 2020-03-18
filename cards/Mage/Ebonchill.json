@@ -1,7 +1,7 @@
 {
 	"name": "Ebonchill",
 	"text": "Attacking minions casts 'Icicle' on them instead. <i>(Destroy 2 <b>Frozen</b> minions to empower.)</i>",
-	"flavor": "Insert this card's flavour text here.",
+	"flavor": "You can only empower your weapons <b>after</b> you've equipped them.",
 	"cardClass": "Mage",
 	"rarity": "Legendary",
 	"type": "Weapon",
