@@ -1,7 +1,7 @@
 {
 	"name": "Insatiable Hunger",
 	"text": "<b>Discover</b> a spell. If you have no Mana remaining, keep all 3.",
-	"flavor": "Insert Insatiable Hunger's flavour text here.",
+	"flavor": "Insert this card's flavour text here.",
 	"cardClass": "Mage",
 	"rarity": "Epic",
 	"type": "Spell",

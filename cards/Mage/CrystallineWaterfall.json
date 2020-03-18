@@ -1,7 +1,7 @@
 {
 	"name": "Crystalline Waterfall",
 	"text": "<b>Battlecry:</b> Draw a spell from your deck and copy it.",
-	"flavor": "Insert Insatiable Hunger's flavour text here.",
+	"flavor": "Insert this card's flavour text here.",
 	"cardClass": "Mage",
 	"rarity": "Rare",
 	"type": "Minion",

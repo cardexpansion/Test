@@ -1,7 +1,7 @@
 {
 	"name": "Ebonchill",
 	"text": "Attacking minions casts 'Icicle' on them instead. <i>(Destroy 2 <b>Frozen</b> minions to empower.)</i>",
-	"flavor": "Insert Insatiable Hunger's flavour text here.",
+	"flavor": "Insert this card's flavour text here.",
 	"cardClass": "Mage",
 	"rarity": "Legendary",
 	"type": "Weapon",

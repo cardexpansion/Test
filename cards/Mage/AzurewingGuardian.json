@@ -1,7 +1,7 @@
 {
 	"name": "Azurewing Guardian",
 	"text": "<b>Battlecry:</b> If you're holding a Dragon, <b>Freeze</b> a minion and those adjacent to it.",
-	"flavor": "Insert Insatiable Hunger's flavour text here.",
+	"flavor": "Insert this card's flavour text here.",
 	"cardClass": "Mage",
 	"rarity": "Common",
 	"type": "Minion",

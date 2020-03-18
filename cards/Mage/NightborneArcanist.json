@@ -1,7 +1,7 @@
 {
 	"name": "Nightborne Arcanist",
 	"text": "<b>Battlecry:</b> Your next spell this turn costs (2) less.",
-	"flavor": "Insert Insatiable Hunger's flavour text here.",
+	"flavor": "Insert this card's flavour text here.",
 	"cardClass": "Mage",
 	"rarity": "Common",
 	"type": "Minion",

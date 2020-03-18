@@ -1,7 +1,7 @@
 {
 	"name": "Mythic Sorcerer",
 	"text": "<b>Deathrattle:</b> Give the next minion you play <b>Spell Damage +2</b>.",
-	"flavor": "Insert Insatiable Hunger's flavour text here.",
+	"flavor": "Insert this card's flavour text here.",
 	"cardClass": "Mage",
 	"rarity": "Rare",
 	"type": "Minion",
